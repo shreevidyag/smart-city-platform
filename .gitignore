@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+.streamlit/secrets.toml
+
+# NOTE: lstm_model.keras, scaler.pkl, training_data.csv are intentionally
+# tracked so the dashboard works immediately after cloning without retraining.
