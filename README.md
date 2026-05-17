@@ -7,7 +7,7 @@ A complete end-to-end Smart City monitoring system: IoT sensor simulation →
 MongoDB storage → LSTM air quality forecasting → live Streamlit dashboard →
 business case PDF.
 
-🔗 **[Live Demo](https://smart-city-helsinki.streamlit.app)**  
+🔗 **[Live Demo](https://smart-city-platformgit-unzrefnbzhw8rnxcn7fpoh.streamlit.app/)**  
 📄 **[Business Case PDF](business_case/smart_city_business_case.pdf)**
 
 ---
