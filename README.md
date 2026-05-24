@@ -1,4 +1,4 @@
-# 🌆 Helsinki Smart City Mini-Platform
+# Helsinki Smart City Mini-Platform
 
 **Portfolio project — Shree Vidya Gurudath**  
 Master of Business Informatics · Metropolia UAS · Helsinki · 2025
@@ -14,7 +14,7 @@ business case PDF.
 
 ## Quickstart (3 options)
 
-### Option A — Double-click (easiest)
+### Option A: Double-click (easiest)
 - **Mac / Linux:** run `run.sh`
 - **Windows:** double-click `run.bat`
 
@@ -22,7 +22,7 @@ Both scripts install everything, train the model, and open the dashboard automat
 
 ---
 
-### Option B — Terminal (step by step)
+### Option B: Terminal (step by step)
 
 **Step 1: Install dependencies**
 ```bash
@@ -61,7 +61,7 @@ streamlit run dashboard/dashboard.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 smart-city-platform/
@@ -112,7 +112,7 @@ smart-city-platform/
 
 ---
 
-##  Deploy Live (Free — Streamlit Cloud)
+##  Deploy Live (Free Streamlit Cloud)
 
 1. Push this repo to GitHub
 2. Go to [share.streamlit.io](https://share.streamlit.io)
